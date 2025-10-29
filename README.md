@@ -1,1 +1,1 @@
-![Tampilan Globe 3D](assets/screenshoot-preview.png)
+![Tampilan Globe 3D](src/assets/screenshoot-preview.png)
